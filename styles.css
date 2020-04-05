@@ -1,0 +1,31 @@
+body {
+  background-color: #21e6c1;
+  font-family: 'Thasadith', sans-serif;
+}
+
+h1 {
+  text-decoration: underline overline wavy pink;
+  font-family: 'Sacramento', cursive;
+}
+
+h3 {
+  text-decoration: underline overline wavy navy;
+  font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+  text-decoration: underline overline wavy #6effbf;
+  font-family: 'Raleway', sans-serif;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #f59aa3;
+  border-width: 5px;
+  width: 10%;
+}
+
+img {
+  width: 900px;
+  height: 500px;
+}
